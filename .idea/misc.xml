@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EditMigrationStateService">
+    <option name="migrationStatus" value="COMPLETED" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="PrettierConfiguration">
+    <option name="myConfigurationMode" value="MANUAL" />
+    <option name="myRunOnSave" value="true" />
+    <option name="myRunOnReformat" value="true" />
+  </component>
+</project>
